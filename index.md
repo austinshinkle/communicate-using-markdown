@@ -6,4 +6,17 @@ This is some text
 This is some more text
 ## Chapter 2
 ## Chapter 3
+This is a code example
+```
+void main(int foo){
+
+  int i = 0;
+  
+  while i < foo{
+    printf("The current value of foo is: %d\n");
+    }
+  return;
+}
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
