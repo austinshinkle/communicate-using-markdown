@@ -6,3 +6,4 @@ This is some text
 This is some more text
 ## Chapter 2
 ## Chapter 3
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
